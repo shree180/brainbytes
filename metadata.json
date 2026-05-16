@@ -1,0 +1,11 @@
+{
+  "name": "Remix: AgroLink AI",
+  "description": "An AI-powered Farm-to-Market Supply Chain platform for agricultural logistics, demand forecasting, and smart pricing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
